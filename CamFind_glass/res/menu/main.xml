@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_item_android"
+        android:title="Say Hello Android!" />
+    
+    <item
+        android:id="@+id/menu_item_glass"
+        android:title="Say Hello Glass!" />
+    
+    <item
+        android:id="@+id/menu_item_ask"
+        android:title="Ask My Name" />
+    
+    <item
+        android:id="@+id/menu_item_coords"
+        android:title="Touch Pad" />
+    
+    <item
+        android:id="@+id/menu_item_camera"
+        android:title="Take a picture" />
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Camera</string>
+	<string name="show_camera">CamFind</string>
+    <string name="tap_to_take_picture">Tap to take a picture</string>
+    
+</resources>
